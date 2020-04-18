@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:TeensyLev V2-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -456,4 +455,6 @@ Wire Wire Line
 	2650 1400 2600 1400
 Wire Wire Line
 	2600 1400 2600 1550
+Text Notes 3100 3450 0    50   ~ 0
+See hack-S18V20ALV.png\nfor details
 $EndSCHEMATC
